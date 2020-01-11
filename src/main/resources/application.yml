@@ -1,4 +1,4 @@
-spring.application.name: league-football-service
+spring.application.name: football-service
 
 server.port: ${port:8080}
   
